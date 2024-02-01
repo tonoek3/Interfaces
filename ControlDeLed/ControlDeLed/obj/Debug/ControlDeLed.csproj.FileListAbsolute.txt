@@ -1,0 +1,10 @@
+C:\Users\670306762\source\repos\ControlDeLed\ControlDeLed\bin\Debug\ControlDeLed.exe.config
+C:\Users\670306762\source\repos\ControlDeLed\ControlDeLed\bin\Debug\ControlDeLed.exe
+C:\Users\670306762\source\repos\ControlDeLed\ControlDeLed\bin\Debug\ControlDeLed.pdb
+C:\Users\670306762\source\repos\ControlDeLed\ControlDeLed\obj\Debug\ControlDeLed.csproj.AssemblyReference.cache
+C:\Users\670306762\source\repos\ControlDeLed\ControlDeLed\obj\Debug\ControlDeLed.Form1.resources
+C:\Users\670306762\source\repos\ControlDeLed\ControlDeLed\obj\Debug\ControlDeLed.Properties.Resources.resources
+C:\Users\670306762\source\repos\ControlDeLed\ControlDeLed\obj\Debug\ControlDeLed.csproj.GenerateResource.cache
+C:\Users\670306762\source\repos\ControlDeLed\ControlDeLed\obj\Debug\ControlDeLed.csproj.CoreCompileInputs.cache
+C:\Users\670306762\source\repos\ControlDeLed\ControlDeLed\obj\Debug\ControlDeLed.exe
+C:\Users\670306762\source\repos\ControlDeLed\ControlDeLed\obj\Debug\ControlDeLed.pdb

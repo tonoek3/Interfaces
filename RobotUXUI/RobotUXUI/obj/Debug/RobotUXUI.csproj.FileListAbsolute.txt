@@ -1,0 +1,10 @@
+C:\Users\670306762\source\repos\RobotUXUI\RobotUXUI\bin\Debug\RobotUXUI.exe.config
+C:\Users\670306762\source\repos\RobotUXUI\RobotUXUI\bin\Debug\RobotUXUI.exe
+C:\Users\670306762\source\repos\RobotUXUI\RobotUXUI\bin\Debug\RobotUXUI.pdb
+C:\Users\670306762\source\repos\RobotUXUI\RobotUXUI\obj\Debug\RobotUXUI.csproj.AssemblyReference.cache
+C:\Users\670306762\source\repos\RobotUXUI\RobotUXUI\obj\Debug\RobotUXUI.Form1.resources
+C:\Users\670306762\source\repos\RobotUXUI\RobotUXUI\obj\Debug\RobotUXUI.Properties.Resources.resources
+C:\Users\670306762\source\repos\RobotUXUI\RobotUXUI\obj\Debug\RobotUXUI.csproj.GenerateResource.cache
+C:\Users\670306762\source\repos\RobotUXUI\RobotUXUI\obj\Debug\RobotUXUI.csproj.CoreCompileInputs.cache
+C:\Users\670306762\source\repos\RobotUXUI\RobotUXUI\obj\Debug\RobotUXUI.exe
+C:\Users\670306762\source\repos\RobotUXUI\RobotUXUI\obj\Debug\RobotUXUI.pdb

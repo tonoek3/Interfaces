@@ -1,0 +1,10 @@
+C:\Users\670306762\source\repos\ServoLcd\ServoLcd\bin\Debug\ServoLcd.exe.config
+C:\Users\670306762\source\repos\ServoLcd\ServoLcd\bin\Debug\ServoLcd.exe
+C:\Users\670306762\source\repos\ServoLcd\ServoLcd\bin\Debug\ServoLcd.pdb
+C:\Users\670306762\source\repos\ServoLcd\ServoLcd\obj\Debug\ServoLcd.csproj.AssemblyReference.cache
+C:\Users\670306762\source\repos\ServoLcd\ServoLcd\obj\Debug\ServoLcd.Form1.resources
+C:\Users\670306762\source\repos\ServoLcd\ServoLcd\obj\Debug\ServoLcd.Properties.Resources.resources
+C:\Users\670306762\source\repos\ServoLcd\ServoLcd\obj\Debug\ServoLcd.csproj.GenerateResource.cache
+C:\Users\670306762\source\repos\ServoLcd\ServoLcd\obj\Debug\ServoLcd.csproj.CoreCompileInputs.cache
+C:\Users\670306762\source\repos\ServoLcd\ServoLcd\obj\Debug\ServoLcd.exe
+C:\Users\670306762\source\repos\ServoLcd\ServoLcd\obj\Debug\ServoLcd.pdb
